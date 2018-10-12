@@ -1,0 +1,10 @@
+- Create the GUI system (again)
+- Implement slab intersection for bloc edtor and model animaton editor
+- Create world system 
+- Create entity system
+- Plan game multithreading
+- Add support for more mouse buttons and scroll wheel for the input::mouse_container class
+- Implement material system
+- Generalize material class to be a resource manager
+- Reimplement bloc resize function
+- Localizations? Files for the game to translate names to other languages
